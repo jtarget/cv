@@ -3,12 +3,7 @@ body {
   text-align: center;
 }
 
-.top-container {
-  padding: 150px 0;
-  background-color: #bedbbb;
-}
-
-.intro {
+h1 {
   font-family: 'Cutive Mono', monospace;
 }
 
@@ -17,12 +12,38 @@ body {
   font-weight: 200;
 }
 
-.middle-container {}
+.top-container {
+  padding: 150px 0;
+  background-color: #bedbbb;
+}
 
-.bottom-container {}
+.middle-container {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 200;
+  font-size: 12px;
+}
 
 .job-title {
   padding-bottom: 50px;
+}
+
+.avatar {
+  margin-top: 50px;
+  height: 150px;
+}
+.masque-gif {
+  height: 200px;
+}
+
+.accordion-gif {
+  height: 200px;
 }
 
 .collage1 {
