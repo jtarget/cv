@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  padding: 150px 0;
+  background-color: #bedbbb;
+}
+
+.intro {
+  font-family: 'Cutive Mono', monospace;
+}
+
+.job-title {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 200;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.job-title {
+  padding-bottom: 50px;
+}
+
+.collage1 {
+  height: 300px;
+  padding-bottom: 28px;
+}
