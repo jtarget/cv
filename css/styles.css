@@ -13,7 +13,7 @@ h1 {
 }
 
 .top-container {
-  padding: 150px 0;
+  padding: 165px 0;
   background-color: #bedbbb;
 }
 
@@ -22,7 +22,6 @@ h1 {
   font-weight: 300;
   font-size: 87.5%;
   line-height: 2;
-  padding: 0 200px;
 }
 
 .bottom-container {
@@ -32,26 +31,39 @@ h1 {
   font-size: 75%;
 }
 
+.profile {
+  width: 50%;
+  margin: 100px auto 50px auto;
+}
+
+.skills {
+  width: 50%;
+  margin: 50px auto;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 50px auto;
+}
+
 .job-title {
   padding-bottom: 50px;
 }
 
+.collage1 {
+  width: 16%;
+}
+
 .avatar {
-  margin-top: 50px;
-  height: 150px;
+  width: 20%;
 }
 
 .masque-gif {
-  height: 200px;
+  width: 20%;
 }
 
 .accordion-gif {
-  height: 200px;
-}
-
-.collage1 {
-  height: 300px;
-  padding-bottom: 28px;
+  width: 30%;
 }
 
 a {
@@ -72,4 +84,5 @@ h3 {
 
 hr {
   border: solid 1px #bedbbb;
+  width: 25%
 }
