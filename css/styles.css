@@ -7,14 +7,10 @@ h1 {
   font-family: 'Cutive Mono', monospace;
 }
 
-.job-title {
-  font-family: 'IBM Plex Mono', monospace;
-  font-weight: 200;
-}
-
 .top-container {
   padding: 140px 0 170px 0;
   background-color: #bedbbb;
+  font-size: 100%;
 }
 
 .middle-container {
@@ -25,10 +21,24 @@ h1 {
 }
 
 .bottom-container {
+  margin: auto;
   padding-top: 50px;
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 200;
   font-size: 75%;
+  width: 50%;
+}
+
+.intro {
+  margin: 21.44px auto;
+  width: 50%
+}
+
+.job-title {
+  margin: 16px auto;
+  width: 50%;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 200;
 }
 
 .profile {
